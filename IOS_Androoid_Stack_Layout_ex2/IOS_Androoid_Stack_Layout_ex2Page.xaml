@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:IOS_Androoid_Stack_Layout_ex2" x:Class="IOS_Androoid_Stack_Layout_ex2.IOS_Androoid_Stack_Layout_ex2Page">
+	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>
